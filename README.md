@@ -8,6 +8,6 @@
 * ![image](https://github.com/yubo725/PocketKitchen-ReactNative/blob/master/screenshots/qr_code.png)
 
 # 截图
-![image](https://github.com/yubo725/PocketKitchen-ReactNative/blob/master/screenshots/screenshot1.jpg)
-![image](https://github.com/yubo725/PocketKitchen-ReactNative/blob/master/screenshots/screenshot2.jpg)
-![image](https://github.com/yubo725/PocketKitchen-ReactNative/blob/master/screenshots/screenshot3.jpg)
+![image](https://github.com/yubo725/PocketKitchen-ReactNative/blob/master/screenshots/1.jpg)
+![image](https://github.com/yubo725/PocketKitchen-ReactNative/blob/master/screenshots/2.jpg)
+![image](https://github.com/yubo725/PocketKitchen-ReactNative/blob/master/screenshots/3.jpg)
